@@ -3,7 +3,7 @@
 - 🌱 I’m currently a 3rd year student in Electrical Engineering at McMaster university
 - 📫 You can email me at annanorris@fastmail.fm, or check out my personal website at annanorris.ca
 - ⚡ I have two rabbits, Ada and Mips:
-![rabbits](https://github.com/user-attachments/assets/5cc51820-3a8e-46e2-92f9-60f097f71f5b)
+<img src="https://github.com/user-attachments/assets/5cc51820-3a8e-46e2-92f9-60f097f71f5b" width="400">
 
 
 
